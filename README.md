@@ -3,15 +3,15 @@ Coronavirus Tracker Android App - Real Time
 
 ## ScreenShots
 ### Home
-![Home](/ScreenShots/Home.png)
+![Home](Screenshots/Home.png)
 ### Countries List
-![Countries](/ScreenShots/Countries.png)
+![Countries](Screenshots/Countries.png)
 ### Search a country
-![CountrySearch](/ScreenShots/CountrySearch.png)
+![CountrySearch](Screenshots/CountrySearch.png)
 ### Country details
-![CountryDetails](/ScreenShots/CountryDetails.png)
+![CountryDetails](Screenshots/CountryDetails.png)
 ### About
-![About](/ScreenShots/About.png)
+![About](Screenshots/About.png)
 
 ## Data Source
 Public JSON API => https://corona.lmao.ninja/
