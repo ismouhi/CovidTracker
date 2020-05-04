@@ -13,5 +13,7 @@ Coronavirus Tracker Android App - Real Time
 ### About
 ![About](Screenshots/About.png)
 
+## APK
+you can download the app from [here](apk/app.apk)
 ## Data Source
 Public JSON API => https://corona.lmao.ninja/
