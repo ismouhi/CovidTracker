@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CovidTracker</string>
+    <string name="title_home">Home</string>
+    <string name="title_country">Country</string>
+    <string name="title_about">About</string>
+    <string name="Copyright">this App developed by Ismail Mouhi</string>
+    <string name="GithubProfile">https://github.com/ismouhi</string>
+    <string name="GithubProfileAvatar">https://avatars1.githubusercontent.com/u/52071208</string>
+    <string name="BackendAPI_Countries">https://corona.lmao.ninja/v2/countries?sort=cases</string>
+    <string name="BackendAPI_Overall">https://corona.lmao.ninja/v2/all</string>
+
+
+    <string name="TotalConfirmed">Total Cases</string>
+    <string name="TotalActive">Total Active</string>
+    <string name="TodayCases">Today Cases</string>
+    <string name="TotalCritical">Total Critical</string>
+    <string name="TotalDeaths">Total Deaths</string>
+    <string name="TodayDeaths">Today Deaths</string>
+    <string name="TotalRecovered">Total Recovered</string>
+    <string name="TotalTests">Total Tests</string>
+</resources>
